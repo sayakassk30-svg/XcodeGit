@@ -17,6 +17,8 @@ struct ContentView: View {
             Text("はじめてのコミット")
             Text("２回目のコミット？")
             Text("３回目のこみっと")
+            //こみっと
+            //コミット
             
         }
         .padding()
