@@ -22,6 +22,7 @@ struct ContentView: View {
             
             
             Text("コミット")
+            Text("コミみみみット")
             
             
         }
