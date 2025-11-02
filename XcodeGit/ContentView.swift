@@ -20,6 +20,10 @@ struct ContentView: View {
             //こみっと
             //コミット
             
+            
+            Text("コミット")
+            
+            
         }
         .padding()
     }
